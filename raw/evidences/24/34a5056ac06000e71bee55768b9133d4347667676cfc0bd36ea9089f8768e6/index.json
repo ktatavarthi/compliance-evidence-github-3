@@ -1,0 +1,32 @@
+{
+  "version": "2",
+  "id": "2434a5056ac06000e71bee55768b9133d4347667676cfc0bd36ea9089f8768e6",
+  "date": "2023-02-22T05:25:12.300Z",
+  "evidence_type_id": "com.ibm.pipeline_run_data",
+  "evidence_type_version": "1.0.0",
+  "details": {
+    "result": "success",
+    "tool": "pipeline"
+  },
+  "origin": {
+    "toolchain_crn": "crn:v1:bluemix:public:toolchain:us-south:a/40111714589c4f7099032529b26a7a63:460b2b56-7646-4791-9ba8-a3612158b558::",
+    "pipeline_id": "5dfc056f-d8e4-4151-a0a9-519bed442a8d",
+    "pipeline_run_id": "0d0ec0f0-5f87-4ac6-8c4f-91331957bad4",
+    "pipeline_run_url": "https://cloud.ibm.com/devops/pipelines/tekton/5dfc056f-d8e4-4151-a0a9-519bed442a8d/runs/0d0ec0f0-5f87-4ac6-8c4f-91331957bad4/code-ci-finish/finish/?env_id=ibm:yp:us-south",
+    "scope": "a98b9235709c7d6f83775f79d90b1c417cca2d6166c41d3852ace27d058b4c11"
+  },
+  "assets": [
+    {
+      "hash": "ad01f6b5ad03a3335ab208731dfbef92c2b7d3ac4732e3fa42d7ae369295b02a",
+      "uri": "pipelinerun://5dfc056f-d8e4-4151-a0a9-519bed442a8d/0d0ec0f0-5f87-4ac6-8c4f-91331957bad4",
+      "url": "https://s3.us-south.cloud-object-storage.appdomain.cloud/cocoa-development/assets/ad01f6b5ad03a3335ab208731dfbef92c2b7d3ac4732e3fa42d7ae369295b02a/index.json"
+    }
+  ],
+  "issues": [],
+  "attachments": [
+    {
+      "hash": "e0268cec1e0ecb781a3de630609fd87c4fbc61ccd257069815c3bdae3d712733",
+      "url": "https://s3.us-south.cloud-object-storage.appdomain.cloud/cocoa-development/attachments/e0268cec1e0ecb781a3de630609fd87c4fbc61ccd257069815c3bdae3d712733/content"
+    }
+  ]
+}
