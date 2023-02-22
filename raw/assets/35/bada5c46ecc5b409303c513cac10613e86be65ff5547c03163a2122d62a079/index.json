@@ -1,0 +1,22 @@
+{
+  "version": "1",
+  "id": "35bada5c46ecc5b409303c513cac10613e86be65ff5547c03163a2122d62a079",
+  "uri": "docker://us.icr.io/cocoa-development/hello-compliance-app-20230217_3:20230222045142-master-b8e36fcc8a0872545c72b5564a12d2f748ee95e1@sha256:35bada5c46ecc5b409303c513cac10613e86be65ff5547c03163a2122d62a079",
+  "origin": {
+    "toolchain_crn": "crn:v1:bluemix:public:toolchain:us-south:a/40111714589c4f7099032529b26a7a63:460b2b56-7646-4791-9ba8-a3612158b558::",
+    "pipeline_run_id": "0d0ec0f0-5f87-4ac6-8c4f-91331957bad4",
+    "pipeline_id": "5dfc056f-d8e4-4151-a0a9-519bed442a8d"
+  },
+  "details": {
+    "registry": "us.icr.io",
+    "name": "cocoa-development/hello-compliance-app-20230217_3",
+    "tag": "20230222045142-master-b8e36fcc8a0872545c72b5564a12d2f748ee95e1",
+    "digest": "35bada5c46ecc5b409303c513cac10613e86be65ff5547c03163a2122d62a079"
+  },
+  "date": "2023-02-22T05:18:23.623Z",
+  "type": "image",
+  "related": [
+    "ad01f6b5ad03a3335ab208731dfbef92c2b7d3ac4732e3fa42d7ae369295b02a",
+    "62ca437aa47f9ce2dab050e82c8fb5471fd821b1ece4cc119169bb827a99f20c"
+  ]
+}
